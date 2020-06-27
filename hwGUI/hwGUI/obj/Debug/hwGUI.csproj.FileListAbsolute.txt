@@ -1,0 +1,15 @@
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\bin\Debug\hwGUI.exe.config
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\bin\Debug\hwGUI.exe
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\bin\Debug\hwGUI.pdb
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\hwGUI.csprojAssemblyReference.cache
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\MainWindow.g.cs
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\App.g.cs
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\hwGUI_MarkupCompile.cache
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\hwGUI_MarkupCompile.lref
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\MainWindow.baml
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\hwGUI.g.resources
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\hwGUI.Properties.Resources.resources
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\hwGUI.csproj.GenerateResource.cache
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\hwGUI.csproj.CoreCompileInputs.cache
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\hwGUI.exe
+C:\Users\MewOun\source\repos\hwGUI\hwGUI\obj\Debug\hwGUI.pdb
